@@ -6,7 +6,7 @@
 **Report 2.0**
 🌐️ [English Report](/reports/250913_llm_landscape/250913_llm_report_en.md) | [中文报告](/reports/250913_llm_landscape/250913_llm_report_cn.md)
 
-![LLM Development Landscape](/reports/250913_llm_landscape/figures/large_models_landscape.png)
+![LLM Development Landscape](/reports/250913_llm_landscape/figures/llm_development_landscape.png)
 
 **Online Interactive Version:** https://antoss-landscape.my.canva.site
 
