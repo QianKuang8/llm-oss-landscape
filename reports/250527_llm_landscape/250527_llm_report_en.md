@@ -5,7 +5,7 @@
 ![](./figures/1.png)
 
 ## The LLM Development Ecosystem: A Snapshot
-![https://antoss-landscape.my.canva.site](/figures/2.png)
+![https://antoss-landscape.my.canva.site](./figures/2.png)
 
 
 
